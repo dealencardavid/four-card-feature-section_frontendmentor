@@ -42,7 +42,7 @@
 }
 
 .text-subheading {
-  color: var(--gray-blue);
+  color: var(--blue-dark);
   font-family: "Poppins";
   font-weight: 200;
   font-size: 1.5rem;
@@ -61,7 +61,7 @@
 }
 
 .text-card-body {
-  color: var(--gray-blue);
+  color: var(--blue-dark);
   font-family: "Poppins";
   font-weight: 200;
   font-size: 1.3rem;
