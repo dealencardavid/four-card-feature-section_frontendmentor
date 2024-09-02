@@ -115,7 +115,7 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 8rem 0px;
+  padding: 8rem;
   gap: 6.4rem;
 }
 
@@ -145,7 +145,7 @@ main {
 }
 
 .gallery__card {
-  width: 35rem;
+  max-width: 35rem;
   height: 25rem;
   display: flex;
   flex-direction: column;
